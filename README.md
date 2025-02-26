@@ -7,7 +7,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I just wanna be backend engineer.
+- 🧑‍💻 I just wanna be engineer.
 - 🌱 I’m currently learning js!
 - 🥀 I live in Okinawa
 - 📫 How to reach me: email- nakazato.syo2023@gmail.com
