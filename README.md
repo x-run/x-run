@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=username" />
 </div>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/jZIq9jQjvBE6krE3Z6/giphy.gif" width="100%" />
 </p>
 
 <!-- 2. プロフィールや連絡先を変更 -->
